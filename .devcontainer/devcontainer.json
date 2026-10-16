@@ -9,5 +9,6 @@
     "vscode": {
       "extensions": ["ms-python.python"]
     }
-  }
+  },
+  "postCreateCommand": ".devcontainer/postCreate.sh"
 }
